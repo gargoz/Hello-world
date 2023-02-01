@@ -1,0 +1,21 @@
+@charset "utf-8";
+#contenido #texto h1 {
+    color: #80043F;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 22px;
+}
+#contenido #texto h2 {
+    color: #20695E;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+#contenido #texto p {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: justify;
+}
+#texto p a {
+    color: #80043F;
+    font-weight: bold;
+}
